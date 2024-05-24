@@ -1,4 +1,3 @@
-import React from "react"
 import Layout from "../layout/layout"
 import Hero from "../layout/hero"
 import Cards from "./testimonial"

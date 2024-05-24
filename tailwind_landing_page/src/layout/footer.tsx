@@ -1,4 +1,3 @@
-import tailwindLogo from '../assets/tailwind.svg'
 import Logo from '../components/logo';
 
 

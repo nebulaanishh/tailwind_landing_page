@@ -1,6 +1,6 @@
 
 
-export default function Card({profileData}) {
+export default function Card({profileData}: any) {
 
     return (
         <div className="bg-slate-800 text-white p-4 rounded-xl">
